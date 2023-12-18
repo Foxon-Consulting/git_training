@@ -1,2 +1,2 @@
-# create a script that will write hello world to the console
+# show hello world
 Write-Host "Hello World"
